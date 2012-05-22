@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PronunciationActivity!</string>
+    <string name="app_name">Upload your pronounciation</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="startRecording">startRecording</string>
+	<string name="stopRecording">stopRecording</string>
+
+</resources>
